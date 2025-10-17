@@ -1,6 +1,5 @@
-# Sales-and-profit-analysis-dashboard
+# Sales-and-profit-analytics-dashboard
 
-#  Sales Analysis Dashboard (Power BI)
 
 ##  Overview
 This Power BI project delivers an end-to-end **Sales and Profit Analytics Dashboard** for a retail dataset.  
