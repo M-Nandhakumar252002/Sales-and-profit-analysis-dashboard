@@ -48,7 +48,7 @@ It provides key business insights on **regional performance, category sales, cus
 ---
 
 ##  Dashboard Preview
-![Sales Analysis Dashboard](<img width="3200" height="1638" alt="image" src="https://github.com/user-attachments/assets/44203451-c5e4-4947-8e88-c7e91324f977" />
+![Sales Analysis Dashboard](preview.jpg
 )
 )
 
